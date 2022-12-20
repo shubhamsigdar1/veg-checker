@@ -23,14 +23,13 @@ I learned that creating a successful project, isn't determined by it's complexit
 
 
 <table bordercolor="#66b2b2">
-![booktracker]()
 
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
 <a target="_blank" href="https://github.com/shubhamsigdar1/Card-Game">Card Game</a>
         <br />
-      <a target="_blank" href="https://vegeterianchecker.netlify.app/">
+      <a target="_blank" href="https://cardgame100devs.netlify.app/">
             <img src="https://user-images.githubusercontent.com/107163260/208601446-b9a25528-e3c9-4112-bfda-b0d4fea07378.gif" width="100%"  alt="Travelara.org"/>
         </a>
     </td>
