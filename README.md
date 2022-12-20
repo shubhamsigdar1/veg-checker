@@ -16,8 +16,6 @@ When I improve this project, I would add more details of products using API.
 
 I learned that creating a successful project, isn't determined by it's complexity.
 
-## More Projects
-
 
 ## More Projects
 
